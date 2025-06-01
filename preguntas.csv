@@ -1,0 +1,7 @@
+MULTIPLE;¿Cuál es la capital de Francia?;RECORDAR;30;París|Londres|Madrid|Roma;0
+VF;La tierra es plana.;ENTENDER;15;false
+MULTIPLE;¿Qué lenguaje se usa en esta tarea?;APLICAR;20;C++|Python|Java|Kotlin;2
+VF;El sol es una estrella.;RECORDAR;10;true
+MULTIPLE;¿Cuál es el resultado de 3 + 5?;RECORDAR;20;6|7|8|9;2
+VF;Java permite programación orientada a objetos.;ENTENDER;15;true
+MULTIPLE;¿Qué nivel de Bloom es el más alto?;EVALUAR;25;Analizar|Aplicar|Evaluar|Crear;3
